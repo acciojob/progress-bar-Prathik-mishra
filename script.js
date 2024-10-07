@@ -1,7 +1,7 @@
 //your JS code here. If required.
 const progress=document.getElementById('progress-bar');
-const next=document.getElementById('n-btn');
-const previous=document.getElementById('p-btn');
+const next=document.getElementById('next');
+const previous=document.getElementById('prev');
 const circle=document.querySelectorAll('.circle');
 let currentactive = 1;
 

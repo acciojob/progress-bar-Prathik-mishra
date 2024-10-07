@@ -47,7 +47,9 @@ body{
     align-items: center;
     font-weight: bold;
     color:grey;
-   transition: all 0.3s; 
+   transition: all 0.3s;
+	padding:2px;
+	margin:2px;
 }
 .active{
     border-color: #3498db;
@@ -57,9 +59,9 @@ body{
     color: white;
    border: none; 
    padding:10px 20px;
-   font-size: 16px;
+   font-size: 19px;
    cursor: pointer;
-   border-radius:5px;
+   border-radius:6px;
    margin: 10px;
    transition:background-color 0.3s;
    
